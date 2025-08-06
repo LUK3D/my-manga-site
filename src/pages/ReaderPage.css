@@ -1,0 +1,60 @@
+.reader-page {
+  background-color: #121212;
+  color: #e0e0e0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.reader-header {
+  width: 100%;
+  max-width: 900px;
+  background-color: #1e1e1e;
+  padding: 15px 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.reader-header h2 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.reader-controls {
+  display: flex;
+  gap: 15px;
+}
+
+.reader-controls button {
+  background-color: #bb86fc;
+  color: #1e1e1e;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.reader-controls button:disabled {
+  background-color: #444;
+  cursor: not-allowed;
+}
+
+.reader-images {
+  display: flex;
+  flex-direction: column;
+  gap: 0; /* Para que as imagens fiquem uma colada na outra */
+  width: 100%;
+  max-width: 900px; /* Limite a largura para melhor leitura */
+}
+
+.reader-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}

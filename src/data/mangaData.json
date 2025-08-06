@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Esse Casamento com Certeza Terá...",
+    "cover": "https://i0.wp.com/blogbbm.com/wp-content/uploads/2020/02/demon-slayer-01.jpg?fit=610%2C900&ssl=1",
+    "rating": 4.6,
+    "latestChapter": 31,
+    "releaseDate": "14 de julho de 2025"
+  },
+  {
+    "id": 2,
+    "title": "A Bebê Prisioneira do Castelo de...",
+    "cover": "https://i0.wp.com/blogbbm.com/wp-content/uploads/2020/02/demon-slayer-01.jpg?fit=610%2C900&ssl=1",
+    "rating": 4.7,
+    "latestChapter": 73,
+    "releaseDate": "27 de julho de 2025"
+  },
+  {
+    "id": 3,
+    "title": "A Jovem Chef Real",
+    "cover": "https://i0.wp.com/blogbbm.com/wp-content/uploads/2020/02/demon-slayer-01.jpg?fit=610%2C900&ssl=1",
+    "rating": 4.4,
+    "latestChapter": 169,
+    "releaseDate": "31 de julho de 2025"
+  },
+  {
+    "id": 4,
+    "title": "Me Tornei um Esquil... em Busca...",
+    "cover": "https://i0.wp.com/blogbbm.com/wp-content/uploads/2020/02/demon-slayer-01.jpg?fit=610%2C900&ssl=1",
+    "rating": 4.8,
+    "latestChapter": 17,
+    "releaseDate": "30 de julho de 2025"
+  },
+  {
+    "id": 5,
+    "title": "Dandadan",
+    "cover": "https://i0.wp.com/blogbbm.com/wp-content/uploads/2020/02/demon-slayer-01.jpg?fit=610%2C900&ssl=1",
+    "rating": 4.9,
+    "latestChapter": 206,
+    "releaseDate": "28 de julho de 2025"
+  },
+  {
+    "id": 6,
+    "title": "Revenge of the Baskerville Bloodhound",
+    "cover": "https://i0.wp.com/blogbbm.com/wp-content/uploads/2020/02/demon-slayer-01.jpg?fit=610%2C900&ssl=1",
+    "rating": 4.5,
+    "latestChapter": 104,
+    "releaseDate": "27 de julho de 2025"
+  }
+]

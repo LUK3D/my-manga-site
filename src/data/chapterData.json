@@ -1,0 +1,20 @@
+{
+  "1": {
+    "title": "Esse Casamento com Certeza Terá...",
+    "chapters": {
+      "31": ["https://via.placeholder.com/800x1200.png?text=Pagina+1", "https://via.placeholder.com/800x1200.png?text=Pagina+2", "https://via.placeholder.com/800x1200.png?text=Pagina+3"]
+    }
+  },
+  "2": {
+    "title": "A Bebê Prisioneira do Castelo de...",
+    "chapters": {
+      "73": ["https://via.placeholder.com/800x1200.png?text=Pagina+1", "https://via.placeholder.com/800x1200.png?text=Pagina+2"]
+    }
+  },
+  "3": {
+    "title": "O Herói Lendário...",
+    "chapters": {
+      "50": ["https://via.placeholder.com/800x1200.png?text=Pagina+1", "https://via.placeholder.com/800x1200.png?text=Pagina+2", "https://via.placeholder.com/800x1200.png?text=Pagina+3", "https://via.placeholder.com/800x1200.png?text=Pagina+4"]
+    }
+  }
+}
