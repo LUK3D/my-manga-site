@@ -65,13 +65,8 @@ export interface VideoTextProps {
 }
 
 export function VideoText({
-  src,
   children,
   className = "",
-  autoPlay = true,
-  muted = true,
-  loop = true,
-  preload = "auto",
   fontSize = 20,
   fontWeight = "bold",
   textAnchor = "middle",
