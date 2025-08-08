@@ -6,9 +6,9 @@ export default function HeaderComponent() {
             <div className="max-w-[1200px] flex justify-between items-center w-full">
                 <div className="flex items-center space-x-8">
                     <Link to={"/"} className="font-bold outfit-bold ">NOX</Link>
-                    <Link to={"/about"} className="">Sobre nós</Link>
-                    <Link to={"."} className="">Mangás</Link>
-                    <Link to={"."} className="">Blog</Link>
+                    <Link to={"/about"} className="text-orange-400">Sobre nós</Link>
+                    <Link to={"."} className="hover:text-orange-400">Mangás</Link>
+                    <Link to={"."} className="hover:text-orange-400">Blog</Link>
                 </div>
             </div>
         </div>
