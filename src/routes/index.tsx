@@ -27,7 +27,7 @@ function Index() {
             <ComicText fontSize={5}>NOX</ComicText>
           </div>
           <p className='text-5xl outfit-bold text-white '>Bora ler alguns mangás Juntos?</p>
-          <p className='opacity-60'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta enim animi ipsa. Error inventore nemo optio laboriosam sunt, assumenda ab libero magni dolor asperiores cumque tempore. Maiores laborum cupiditate saepe?</p>
+          <p className='opacity-60'>A NOX é a sua plataforma definitiva para explorar e mergulhar em um universo de mangás. Crie sua biblioteca personalizada, descubra novos títulos e acompanhe seus mangás favoritos, tudo em um só lugar. Junte-se à nossa comunidade e comece sua jornada agora!</p>
           <div>
             <button
               className='bg-purple-500 outfit-bold px-5 py-2 rounded-md text-white mt-5 active:scale-95 transition hover:saturate-200'
